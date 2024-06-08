@@ -6,8 +6,8 @@ main {
 	background-color: #000000;
 	padding: 10px;
 }
-
-.hello-accio {
-	color:#ffffff;
-	margin-left: 32px;
+p.hello-accio {
+  color: #ffffff;
+  margin-left: 32px;
+  padding: 10px;
 }
